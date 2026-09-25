@@ -1,0 +1,14 @@
+import React from 'react'
+import Navigation from './Navigation'
+import Hero from './Hero'
+
+const App = () => {
+  return (
+    <>
+        <Navigation />
+        <Hero />
+    </>
+  )
+}
+
+export default App
